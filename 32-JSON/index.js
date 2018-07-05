@@ -12,3 +12,10 @@ console.log(myCat);
 // 1. Show all students
 // 2. Create a new student
 // 3. Save & Exit
+// > 1.
+// Save to ./data.json -> fs.readFileSync, JSON.parse
+// > 2.
+// > Your name?
+// > Your age?
+// > Your class?
+// > 3.
